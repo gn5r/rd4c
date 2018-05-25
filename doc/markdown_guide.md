@@ -17,7 +17,7 @@ setup.exeを起動すると、デスクトップにショートカットが作�
 
 なお、プレビュー機能があり、**Ctrl + Shift + M** でMarkdownのプレビューを見ることができるので、書きながらどう表示されるのかを確認できますので、覚えておいてください。
 
-<div aling="center">
+<div align="center">
   <img src="../img/atom_coding_preview.jpg">
 </div>
 
