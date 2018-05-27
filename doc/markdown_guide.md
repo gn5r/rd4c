@@ -21,4 +21,15 @@ setup.exeを起動すると、デスクトップにショートカットが作�
   <img src="../img/atom_coding_preview.jpg">
 </div>
 
-コーディング中の画面
+<div align="center">コーディング中の画面</div>
+
+## Visual Studio Codeでのやり方
+調べてみたところ、Visual Studio Code(以後VSCode)でも同じことができることを確認しました。<br>
+プレビューのショートカットキーである **`Ctrl + Shift + V`** を押すだけで、別タブにてプレビューが表示されます。<br>
+こちらの方法では、パッケージをインストールする必要がなくショートカットキーを押すだけなので、VSCodeの方に慣れているのであればこちらでも構いません。<br>
+ですが、Atomとは違い、プレビューショートカットだけでは画面分割されず、別タブに開いてしまうので、僕としては微妙な感じがします。<br>
+また、画面分割のショートカットキーは **`Ctrl + \`** です。<br>
+
+<div align="center">
+  <img src="../img/vscode_markdown_preview.jpg">
+</div>
