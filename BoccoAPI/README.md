@@ -18,11 +18,13 @@
   </repository>
 </repositories>
 
-<dependency>
-  <groupId>com.github.gn5r</groupId>
-  <artifactId>bocco4j</artifactId>
-  <version>-SNAPSHOT</version>
-</dependency>
+<dependencies>
+  <dependency>
+    <groupId>com.github.gn5r</groupId>
+    <artifactId>bocco4j</artifactId>
+    <version>-SNAPSHOT</version>
+  </dependency>
+</dependencies>
 ```
 
 ## 実装予定機能
