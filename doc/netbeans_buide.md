@@ -18,7 +18,7 @@ Java開発と聞くと、Eclipseを使う事が大体ですが、今回は比較
 [NetBeansダウンロードページ](https://netbeans.org/downloads/?pagelang=ja)にアクセスし、 **Java SE** をダウンロードしておいてください。<br>
 PHP,HTML,JavaScript,C/C++に対応したIDEもありますが、今回の開発には必要ありません。<br>
 
-JDK、NetBeansをインストールする際、ディレクトリを変更しても構いませんが、**十分に理解している** 場合のみでお願いします。<br>
+JDK、NetBeansをインストールする際、ディレクトリを変更しても構いませんが、 **十分に理解している** 場合のみでお願いします。<br>
 基本的にはWindowsを使ってる限り、インストールディレクトリを変更する必要はありません。<br>
 
 ## NetBeansの初期設定
