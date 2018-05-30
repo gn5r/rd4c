@@ -23,4 +23,11 @@ JDK、NetBeansをインストールする際、ディレクトリを変更して
 
 ## NetBeansの初期設定
 JDK8とNetBeansの導入が終わりましたら、コード補完の設定をします。<br>
-[NetBeansでも爆速コーディング](http://masatoshitada.hatenadiary.jp/entry/2014/06/11/172203)を参考に、オプション→エディタ→コード補完からJavaを選択し、トリガーに`.abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ_`を入力しておいてください。
+[NetBeansでも爆速コーディング](http://masatoshitada.hatenadiary.jp/entry/2014/06/11/172203)を参考に、オプション→エディタ→コード補完からJavaを選択し、トリガーに`.abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ_`を入力しておいてください。<br>
+ショートカットキーの割当もいくつか選べるのですが、おすすめとしてはEclipseのを割り当てると、統一化されて教える時などに楽です。
+
+## Mavenの導入
+MavenリポジトリとしてJavaアプリケーションを開発してもらう予定なので、最初からMavenを扱ってもらおうかと思います。<br>
+[Mavenダウンロードサイト](https://maven.apache.org/download.cgi)より、 **	apache-maven-3.5.3-bin.zip** をダウンロードし、Cドライブ直下かユーザーフォルダ直下に解凍してください。<br>
+Windowsのシステム環境変数のPATHに **解凍フォルダ\bin** を追加してください。<br>
+Cmderやコマンドプロンプトなどで`mvn -v`と打ち込み、バージョンが表示されれば導入完了です。
