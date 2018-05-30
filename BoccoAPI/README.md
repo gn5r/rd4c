@@ -10,7 +10,7 @@
 [bocco4j](https://github.com/gn5r/bocco4j)にライブラリ化するプログラムをPushしました。どういう動作をしているのか見たかったら覗いて見てください。<br>
 なお、このライブラリをインポートするにはpom.xmlに以下を追記
 
-```pom.xml
+``` xml
 <repositories>
   <repository>
       <id>jitpack.io</id>
