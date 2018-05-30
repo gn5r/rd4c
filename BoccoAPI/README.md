@@ -3,11 +3,27 @@
 **更新履歴**
 - 2018年5月24日(木) 初版アップロード
 - 2018年5月30日(水) ディレクトリ移動、ライブラリ化するプログラムを公開
+- 2018年5月31日(木) bocco4jのライブラリ化。maven及びGradleから参照可能
 ----
 
 ## プログラム本体
 [bocco4j](https://github.com/gn5r/bocco4j)にライブラリ化するプログラムをPushしました。どういう動作をしているのか見たかったら覗いて見てください。<br>
-rd4c/BoccoAPIのディレクトリにはjarファイルをアップロードしようかと思います。
+なお、このライブラリをインポートするにはpom.xmlに以下を追記
+
+```pom.xml
+<repositories>
+  <repository>
+      <id>jitpack.io</id>
+      <url>https://jitpack.io</url>
+  </repository>
+</repositories>
+
+<dependency>
+  <groupId>com.github.gn5r</groupId>
+  <artifactId>bocco4j</artifactId>
+  <version>-SNAPSHOT</version>
+</dependency>
+```
 
 ## 実装予定機能
 - セッション情報を作成し、AccsessTokenを取得
