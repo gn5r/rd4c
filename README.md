@@ -26,9 +26,11 @@
 <div align="center">
   <img src=./img/git_guide.jpg>
 </div>
+
 <br>
-[Gitの基本操作](https://github.com/gn5r/tutorial#Gitの基本操作) で初期化からローカルとリモートの関連付けをし、masterブランチのリポジトリをpullすることから始まります。<br>
-Git操作コマンドリストを列挙してあるので、[こちら](https://github.com/gn5r/tutorial/blob/master/doc/git_command.md) (クリックでページ表示)も併せて目を通しておいてください。<br>
+
+[Gitの基本操作](https://github.com/gn5r/tutorial#Gitの基本操作)で初期化からローカルとリモートの関連付けをし、masterブランチのリポジトリをpullすることから始まります。<br>
+Git操作コマンドリストを列挙してあるので、[こちら](https://github.com/gn5r/tutorial/blob/master/doc/git_command.md)(クリックでページ表示)も併せて目を通しておいてください。<br>
 
 なお、当記事作者のブランチ名は **`gn5r`** です。<br>
 また、ブランチ名はGitユーザー名と同じである必要は無く、短めの名前をおすすめします
