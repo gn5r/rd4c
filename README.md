@@ -18,7 +18,7 @@
 - [Markdown使用の準備](./doc/markdown_guide.md)
 - [NetBeansガイド](./doc/netbeans_guide.md)
 - [通信機能](./BoccoAPI/README.md)
-- [本型デバイス・](./DeviceDesign/README.md)
+- [本型デバイス](./DeviceDesign/README.md)
 ----
 
 ## GitHub操作のフローチャート
