@@ -28,6 +28,6 @@ JDK8とNetBeansの導入が終わりましたら、コード補完の設定を�
 
 ## Mavenの導入
 MavenリポジトリとしてJavaアプリケーションを開発してもらう予定なので、最初からMavenを扱ってもらおうかと思います。<br>
-[Mavenダウンロードサイト](https://maven.apache.org/download.cgi)より、 **	apache-maven-3.5.3-bin.zip** をダウンロードし、Cドライブ直下かユーザーフォルダ直下に解凍してください。<br>
+[Mavenダウンロードサイト](https://maven.apache.org/download.cgi)より、 **apache-maven-3.5.3-bin.zip** をダウンロードし、Cドライブ直下かユーザーフォルダ直下に解凍してください。<br>
 Windowsのシステム環境変数のPATHに **解凍フォルダ\bin** を追加してください。<br>
 Cmderやコマンドプロンプトなどで`mvn -v`と打ち込み、バージョンが表示されれば導入完了です。
