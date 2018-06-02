@@ -5,6 +5,7 @@
 - 2018年5月26日(土) Markdownガイド追加
 - 2018年5月28日(月) MarkdownガイドにVSCodeでのやり方を追記
 - 2018年5月30日(水) NetBeansガイドを追加、BoccoAPIディレクトリ作成
+- 2018年5月31日(木) Devicedesignファイル追加
 ----
 
 ## GPIO早見表
@@ -16,6 +17,7 @@
 - [Markdown使用の準備](./doc/markdown_guide.md)
 - [NetBeansガイド](./doc/netbeans_guide.md)
 - [通信機能](./BoccoAPI/README.md)
+- [本型デバイス・](./BoccoAPI/README.md)
 ----
 
 ## GitHub操作のフローチャート
